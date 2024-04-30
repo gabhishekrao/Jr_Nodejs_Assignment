@@ -11,6 +11,11 @@ Note: You can use Postman or similar tools to send requests.
 
 ## Getting Started
 
+### For sending request use :
+- Deployment link - https://users-files-uploder-jr-nodejs.onrender.com/
+- http://localhost:5000/
+
+
 To use this application locally, follow these steps:
 
 1. Clone this repository to your local machine:
